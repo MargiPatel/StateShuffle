@@ -1,19 +1,34 @@
 {
   "images" : [
     {
-      "filename" : "reportCard.png",
+      "filename" : "stateShuffle_icon 2.png",
       "idiom" : "universal",
-      "scale" : "1x"
+      "platform" : "ios",
+      "size" : "1024x1024"
     },
     {
-      "filename" : "reportCard 1.png",
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "stateShuffle_icon 1.png",
       "idiom" : "universal",
-      "scale" : "2x"
+      "platform" : "ios",
+      "size" : "1024x1024"
     },
     {
-      "filename" : "reportCard 2.png",
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "tinted"
+        }
+      ],
+      "filename" : "stateShuffle_icon.png",
       "idiom" : "universal",
-      "scale" : "3x"
+      "platform" : "ios",
+      "size" : "1024x1024"
     }
   ],
   "info" : {
