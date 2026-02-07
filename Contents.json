@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "scrambledStates_profile_background.png",
+      "filename" : "states_logo.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "scrambledStates_profile_background 1.png",
+      "filename" : "states_logo 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "scrambledStates_profile_background 2.png",
+      "filename" : "states_logo 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
